@@ -12,7 +12,7 @@ is a very good option.
 
 Clone:
 
-    git clone git@github.com:h-da/geli.git
+    git clone https://github.com/geli-lms/geli.git
 
 Install Dependencies:
 
